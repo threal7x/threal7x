@@ -29,22 +29,21 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
   <tr>
     <!-- PROJETO 1 -->
     <td width="50%" valign="top">
-      <h4>🎯 
-threal7x/anny-glow-studio</h4>
-      <p>Uma breve descrição do projeto aqui. Explique o problema que ele resolve e o que você construiu.</p>
+      <h4>🎯 threal7x/anny-glow-studio</h4>
+      <p>Landing page profissional e responsiva desenvolvida para um estúdio de beleza. Focada em experiência do usuário, design moderno e conversão de clientes.</p>
       <p>
         <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>React</code>
       </p>
-      <a href="LINK_DO_REPOSITORIO_OU_SITE_PROJETO_1"><b>Visualizar Projeto 🚀</b></a>
+      <a href="https://vercel.app" target="_blank"><b>Visualizar Projeto 🚀</b></a>
     </td>
     <!-- PROJETO 2 -->
     <td width="50%" valign="top">
       <h4>⚙️ threal7x/thlog-logistica</h4>
-      <p>Uma breve descrição do segundo projeto. Foque em destacar as funcionalidades principais do app.</p>
+      <p>Aplicação web para controle e otimização de processos logísticos. Desenvolvida para organizar fluxos de trabalho e exibição dinâmica de dados.</p>
       <p>
         <code>React</code> <code>JavaScript</code> <code>CSS Modulo</code>
       </p>
-      <a href="LINK_DO_REPOSITORIO_OU_SITE_PROJETO_2"><b>Visualizar Projeto 🚀</b></a>
+      <a href="https://github.com" target="_blank"><b>Visualizar Projeto 🚀</b></a>
     </td>
   </tr>
 </table>
