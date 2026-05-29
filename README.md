@@ -10,31 +10,31 @@ Sou apaixonado por transformar ideias em experiências digitais interativas, lim
 
 Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
 
-<div align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
-</div>
+<p align="left">
+  <img src="https://shields.io" width="110" height="35" alt="HTML5" />
+  <img src="https://shields.io" width="100" height="35" alt="CSS3" />
+  <img src="https://shields.io" width="140" height="35" alt="JavaScript" />
+  <img src="https://shields.io" width="100" height="35" alt="React" />
+</p>
 
 ---
 
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="150" />
+  <img src="https://azurewebsites.net" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://azurewebsites.net" height="150" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
 
 ### 📫 Como me encontrar
 
-<div align="left">
+<p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://shields.io" width="130" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:thferreiralog@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
+    <img src="https://shields.io" width="110" height="35" alt="Gmail" />
   </a>
-</div>
+</p>
