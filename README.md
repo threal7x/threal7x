@@ -21,18 +21,33 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
 
 * 💼 **LinkedIn:** [Acesse meu perfil no LinkedIn](https://linkedin.com)
 * 📧 **E-mail:** thferreiralog@gmail.com
----
-
-### 📈 Contribuições Semanais
-
-<p align="left">
-  <img src="https://vercel.app" alt="Gráfico de Atividade" />
-</p>
+* 💼 **LinkedIn:** [Acesse meu perfil no LinkedIn](https://linkedin.com)
+* 📧 **E-mail:** thferreiralog@gmail.com
 
 ---
 
-### 🐍 Snake Game (Minha Jornada)
+### 💻 Projetos em Destaque
 
-<p align="left">
-  <img src="https://githubusercontent.com" alt="Jogo da Cobrinha" />
-</p>
+<table width="100%">
+  <tr>
+    <!-- PROJETO 1 -->
+    <td width="50%" valign="top">
+      <h4>🎯 
+threal7x/anny-glow-studio</h4>
+      <p>Uma breve descrição do projeto aqui. Explique o problema que ele resolve e o que você construiu.</p>
+      <p>
+        <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>React</code>
+      </p>
+      <a href="LINK_DO_REPOSITORIO_OU_SITE_PROJETO_1"><b>Visualizar Projeto 🚀</b></a>
+    </td>
+    <!-- PROJETO 2 -->
+    <td width="50%" valign="top">
+      <h4>⚙️ threal7x/thlog-logistica</h4>
+      <p>Uma breve descrição do segundo projeto. Foque em destacar as funcionalidades principais do app.</p>
+      <p>
+        <code>React</code> <code>JavaScript</code> <code>CSS Modulo</code>
+      </p>
+      <a href="LINK_DO_REPOSITORIO_OU_SITE_PROJETO_2"><b>Visualizar Projeto 🚀</b></a>
+    </td>
+  </tr>
+</table>
