@@ -21,3 +21,18 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
 
 * 💼 **LinkedIn:** [Acesse meu perfil no LinkedIn](https://linkedin.com)
 * 📧 **E-mail:** thferreiralog@gmail.com
+---
+
+### 📈 Contribuições Semanais
+
+<p align="left">
+  <img src="https://vercel.app" alt="Gráfico de Atividade" />
+</p>
+
+---
+
+### 🐍 Snake Game (Minha Jornada)
+
+<p align="left">
+  <img src="https://githubusercontent.com" alt="Jogo da Cobrinha" />
+</p>
