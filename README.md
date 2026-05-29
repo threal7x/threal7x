@@ -21,9 +21,6 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
 
 * 💼 **LinkedIn:** [Acesse meu perfil no LinkedIn](https://linkedin.com)
 * 📧 **E-mail:** thferreiralog@gmail.com
-* 💼 **LinkedIn:** [Acesse meu perfil no LinkedIn](https://linkedin.com)
-* 📧 **E-mail:** thferreiralog@gmail.com
-
 ---
 
 ### 💻 Projetos em Destaque
