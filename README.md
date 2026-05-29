@@ -43,7 +43,7 @@ Aqui estão as tecnologias que utilizo para dar vida aos meus projetos:
       <p>
         <code>React</code> <code>JavaScript</code> <code>CSS Modulo</code>
       </p>
-      <a href="https://github.com" target="_blank"><b>Visualizar Projeto 🚀</b></a>
+      <a href="https://vercel.app" target="_blank"><b>Visualizar Projeto 🚀</b></a>
     </td>
   </tr>
 </table>
